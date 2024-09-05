@@ -4,9 +4,10 @@
 - 💬 Ask me about VLSI
 - 📫 How to reach me: mutalikanushri23@gmail.com
 
-<img align="right"alt="curious" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPratikshya1201&psig=AOvVaw3FFZNtYKnguHNjLcnve8aa&ust=1725610786783000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD17cKvq4gDFQAAAAAdAAAAABAR">
+<img align="right"alt="curious" width="400" src="https://www.google.com/url
+sa=i&url=https%3A%2F%2Fgithub.com%2FPratikshya1201&psig=AOvVaw3FFZNtYKnguHNjLcnve8aa&ust=1725610786783000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD17cKvq4gDFQAAAAAdAAAAABAR">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anushri-05" alt="anushri-05" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=anushri-05" alt="anushri-05" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
