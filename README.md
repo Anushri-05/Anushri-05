@@ -4,7 +4,7 @@
 - 💬 Ask me about VLSI
 - 📫 How to reach me: mutalikanushri23@gmail.com
 
-<img align="right" alt="curious" width="400" src="[https://github.com/user-attachments/assets/825cb166-6baf-42d2-b5e7-2cd9df73b945](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)">
+<img align="right" alt="curious" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 <h3 align="left">Connect with me:</h3>
