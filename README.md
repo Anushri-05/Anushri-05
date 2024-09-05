@@ -6,6 +6,7 @@
 
 <img align="right" alt="curious" width="400" src="https://github.com/user-attachments/assets/825cb166-6baf-42d2-b5e7-2cd9df73b945">
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@anushri81045407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anushri81045407" height="30" width="40" /></a>
